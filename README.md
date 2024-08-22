@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Indu Danthuluri</h1>
+<h1 align="center">Hello World!! 👋, I'm Indu Danthuluri</h1>
 <h3 align="center">A passionate Software Engineer from USA</h3>
 
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
